@@ -1,0 +1,9 @@
+keras
+tensorflow
+numpy 
+pandas
+torch
+torchvision
+PIL
+matplotlib
+os
