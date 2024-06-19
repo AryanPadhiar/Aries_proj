@@ -291,7 +291,12 @@ output = run_style_transfer(cnn, cnn_normalization_mean, cnn_normalization_std,
 ## End
 I have created a separate function at the end which can be runned by just providing the proper inputs.
 
-##Results
+ ## Results
+ ![Demo](https://drive.google.com/uc?export=view&id=1GzytNiRw8UmcKDUU9q4cJAQaLKdcpx5p)
+ ![Demo](https://drive.google.com/uc?export=view&id=10jqff7lphFBYUBQz_7wLOqBLGuASZXvb)
+ ![Demo](https://drive.google.com/uc?export=view&id=1XNSIBCmWSff7UpGIj8c1H9Xf9QzCbWhf)
+ ![Demo](https://drive.google.com/uc?export=view&id=1QFMaHlYzYjgQ6DDd9vVrTD1YcLr3SJKW)
+ 
 
 
 
